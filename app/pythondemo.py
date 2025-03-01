@@ -1,1 +1,1 @@
-ggg
+print("welcome")
